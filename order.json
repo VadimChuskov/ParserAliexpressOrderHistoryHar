@@ -1,0 +1,66 @@
+"pc_om_list_order_5098466258048657": {
+  "fields": {
+    "buttons": [
+      {
+        "displayType": "primary",
+        "size": "default",
+        "text": "Add to cart",
+        "type": "REPURCHASE"
+      },
+      {
+        "border": true,
+        "displayType": "default",
+        "size": "default",
+        "text": "Delete",
+        "type": "DELETE"
+      }
+    ],
+    "currencyCode": "USD",
+    "formatPriceInfo": "US $4.59||",
+    "orderDateText": "Jan 14, 2023",
+    "orderDateTitle": "Order date",
+    "orderDetailText": "Order details",
+    "orderDetailUrl": "https://www.aliexpress.com/p/order/detail.html?orderId=5098466258048657",
+    "orderId": "5098466258048657",
+    "orderLines": [
+      {
+        "currencyCode": "USD",
+        "formatPriceInfo": "US $3.10||",
+        "itemDetailUrl": "//www.aliexpress.com/item/33044946047.html",
+        "itemImgUrl": "https://ae01.alicdn.com/kf/S1fc1815d4d31486ea52de290efcdc2904.jpg_220x220.jpg",
+        "itemPriceText": "US $3.10",
+        "itemTags": [
+          {
+            "desc": "Full refund if product is not received in 75 days.",
+            "href": "https://sale.aliexpress.com/__pc/v8Yr8f629D.htm",
+            "icon": "https://ae01.alicdn.com/kf/Sd3663d6ad9e047da84b4235543a1a42ba/200x200.png",
+            "type": "BUYER_PROTECTION"
+          }
+        ],
+        "itemTitle": "Адаптер usb-c на Mini DP 60 Гц, адаптер порта отображения Type C на Mini, конвертер Thunderbolt 3 в Mini DP Для MacBook Pro, 4K",
+        "orderLineId": "5098466258058657",
+        "productId": "33044946047",
+        "quantity": 1,
+        "skuId": "12000028227600672"
+      }
+    ],
+    "paymentDisableBox": true,
+    "paymentOutId": "11990501103230114867844818657",
+    "sellerConnectUrl": "//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=3ce59f4787c9d67d57b74710d8600c985eafff4c91218004ae3c77769717c21011c6dcdb16d465fe932eabd7a2dfcd8e",
+    "shopIcon": "https://ae01.alicdn.com/kf/H3f645a747e2840f9bc543e561fde86fdA.png",
+    "showSelectBox": false,
+    "statusText": "Finished",
+    "statusTitle": "Status",
+    "storeName": "DOUREM Store",
+    "storePageUrl": "//www.aliexpress.com/store/5005193",
+    "toastPayError": "Current order can not be paid. Please go to www.aliexpress.ru to finish the payment.",
+    "totalPriceText": "US $4.59",
+    "totalPriceTitle": "Total"
+  },
+  "id": "5098466258048657",
+  "position": "body",
+  "scriptKey": "Pc_om_list_order_110655",
+  "status": "normal",
+  "tag": "pc_om_list_order",
+  "type": "pc_om_list_order"
+}
